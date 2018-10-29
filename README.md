@@ -9,6 +9,7 @@ My collection of interesting Machine Learning articles
 # Tools
 
 * [100 numpy exercises](http://www.labri.fr/perso/nrougier/teaching/numpy.100/) (retrieved 2018-10-29)
+* [face-api.js](https://github.com/justadudewhohacks/face-api.js) (retrieved 2018-10-29)
 * [Keras: The Python Deep Learning library](https://keras.io/) (retrieved 2018-10-29)
 * [SciPy.org — SciPy.org](https://www.scipy.org/) (retrieved 2018-10-29)
 * [TensorFlow](https://www.tensorflow.org/) (retrieved 2018-10-29)
