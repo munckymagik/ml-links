@@ -2,6 +2,10 @@
 
 My collection of interesting Machine Learning articles
 
+# Tutorials / Books
+
+* [Spinning Up in Deep RL — OpenAI](https://spinningup.openai.com/en/latest/) (retrieved 2018-11-18)
+
 # Examples of use
 
 * [Playing Mortal Kombat with TensorFlow.js. Transfer learning and data augmentation · Minko Gechev's blog](https://blog.mgechev.com/2018/10/20/transfer-learning-tensorflow-js-data-augmentation-mobile-net/) (2018-10-20)
