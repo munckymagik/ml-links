@@ -13,8 +13,10 @@ My link collection for Artificial Intelligence and Machine Learning.
 # Tutorials / Books
 
 * [3Blue1Brown - Neural networks - Video Series](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) (retrieved 2018-11-18)
+* [Multi-object tracking with dlib - PyImageSearch](https://www.pyimagesearch.com/2018/10/29/multi-object-tracking-with-dlib/) (2018-10-29)
 * [Spinning Up in Deep RL — OpenAI](https://spinningup.openai.com/en/latest/) (retrieved 2018-11-18)
 * [Unsupervised Feature Learning and Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/) (retrieved 2018-11-18)
+
 
 # Research
 
