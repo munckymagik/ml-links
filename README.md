@@ -1,6 +1,6 @@
 # ml-links
 
-My collection of interesting Machine Learning articles
+My link collection for Machine Learning
 
 # Tutorials / Books
 
