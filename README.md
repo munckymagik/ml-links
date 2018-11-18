@@ -5,6 +5,7 @@ My link collection for Machine Learning
 # Tutorials / Books
 
 * [Spinning Up in Deep RL — OpenAI](https://spinningup.openai.com/en/latest/) (retrieved 2018-11-18)
+* [Unsupervised Feature Learning and Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/) (retrieved 2018-11-18)
 
 # Examples of use
 
