@@ -6,7 +6,7 @@ My link collection for Artificial Intelligence and Machine Learning.
 
 * AGI - [Artificial General Intelligence](https://intelligence.org/2013/08/11/what-is-agi/)
 * ANN - [Artificial Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network)
-* CV - either [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision) (or [Cross Validation](https://docs.aws.amazon.com/machine-learning/latest/dg/cross-validation.html))
+* CV - [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision) (or [Cross Validation](https://docs.aws.amazon.com/machine-learning/latest/dg/cross-validation.html))
 * NLP - [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
 * RL - [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
 
