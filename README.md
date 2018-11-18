@@ -18,7 +18,13 @@ My link collection for Artificial Intelligence and Machine Learning.
 
 # Research
 
+## Sources
+
 * [Distill — Latest articles about machine learning](https://distill.pub/) (retrieved 2018-11-18)
+* [OpenAI](https://openai.com/) - non-profit AI research company (retrieved 2018-11-18)
+
+## Articles
+
 * [Learning Dexterity - OpenAI](https://blog.openai.com/learning-dexterity/) (2018-07-30)
 
 # Examples of use
