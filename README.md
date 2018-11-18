@@ -1,11 +1,12 @@
 # ml-links
 
-My link collection for Machine Learning
+My link collection for Artificial Intelligence and Machine Learning.
 
 # Glossary
 
 * AGI - [Artificial General Intelligence](https://intelligence.org/2013/08/11/what-is-agi/)
-* CV - either [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision) or [Cross Validation](https://docs.aws.amazon.com/machine-learning/latest/dg/cross-validation.html)
+* ANN - [Artificial Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network)
+* CV - either [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision) (or [Cross Validation](https://docs.aws.amazon.com/machine-learning/latest/dg/cross-validation.html))
 * NLP - [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
 * RL - [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
 
@@ -14,6 +15,11 @@ My link collection for Machine Learning
 * [3Blue1Brown - Neural networks - Video Series](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) (retrieved 2018-11-18)
 * [Spinning Up in Deep RL — OpenAI](https://spinningup.openai.com/en/latest/) (retrieved 2018-11-18)
 * [Unsupervised Feature Learning and Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/) (retrieved 2018-11-18)
+
+# Research
+
+* [Distill — Latest articles about machine learning](https://distill.pub/) (retrieved 2018-11-18)
+* [Learning Dexterity - OpenAI](https://blog.openai.com/learning-dexterity/) (2018-07-30)
 
 # Examples of use
 
