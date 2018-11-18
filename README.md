@@ -2,6 +2,13 @@
 
 My link collection for Machine Learning
 
+# Glossary
+
+* AGI - [Artificial General Intelligence](https://intelligence.org/2013/08/11/what-is-agi/)
+* CV - either [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision) or [Cross Validation](https://docs.aws.amazon.com/machine-learning/latest/dg/cross-validation.html)
+* NLP - [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
+* RL - [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
+
 # Tutorials / Books
 
 * [3Blue1Brown - Neural networks - Video Series](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) (retrieved 2018-11-18)
@@ -17,6 +24,7 @@ My link collection for Machine Learning
 * [100 numpy exercises](http://www.labri.fr/perso/nrougier/teaching/numpy.100/) (retrieved 2018-10-29)
 * [face-api.js](https://github.com/justadudewhohacks/face-api.js) (retrieved 2018-10-29)
 * [Keras: The Python Deep Learning library](https://keras.io/) (retrieved 2018-10-29)
+* [OpenCV library](https://opencv.org/) (retrieved 2018-11-18)
 * [SciPy.org — SciPy.org](https://www.scipy.org/) (retrieved 2018-10-29)
 * [TensorFlow](https://www.tensorflow.org/) (retrieved 2018-10-29)
 * [TensorFlow Rust Binding](https://github.com/tensorflow/rust)
