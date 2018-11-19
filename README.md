@@ -28,7 +28,7 @@ My link collection for Artificial Intelligence and Machine Learning.
 
 ## Articles
 
-* [From GAN to WGAN](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html) (retrieved 2017-08-20)
+* [From GAN to WGAN](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html) (2017-08-20)
 * [Learning Dexterity - OpenAI](https://blog.openai.com/learning-dexterity/) (2018-07-30)
 
 # Examples of use
