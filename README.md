@@ -7,6 +7,7 @@ My link collection for Artificial Intelligence and Machine Learning.
 * AGI - [Artificial General Intelligence](https://intelligence.org/2013/08/11/what-is-agi/)
 * ANN - [Artificial Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network)
 * CV - [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision) (or [Cross Validation](https://docs.aws.amazon.com/machine-learning/latest/dg/cross-validation.html))
+* GAN - [Generative Adversarial Network](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
 * NLP - [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
 * RL - [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
 
@@ -27,6 +28,7 @@ My link collection for Artificial Intelligence and Machine Learning.
 
 ## Articles
 
+* [From GAN to WGAN](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html) (retrieved 2017-08-20)
 * [Learning Dexterity - OpenAI](https://blog.openai.com/learning-dexterity/) (2018-07-30)
 
 # Examples of use
