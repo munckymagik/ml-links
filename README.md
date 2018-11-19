@@ -6,10 +6,12 @@ My link collection for Artificial Intelligence and Machine Learning.
 
 * AGI - [Artificial General Intelligence](https://intelligence.org/2013/08/11/what-is-agi/)
 * ANN - [Artificial Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network)
+* CNN - [Convolutional Neural Network](https://lilianweng.github.io/lil-log/2017/06/21/an-overview-of-deep-learning.html)
 * CV - [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision) (or [Cross Validation](https://docs.aws.amazon.com/machine-learning/latest/dg/cross-validation.html))
 * GAN - [Generative Adversarial Network](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
 * NLP - [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
 * RL - [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
+* RNN - [Recurrent Neural Network](https://lilianweng.github.io/lil-log/2017/06/21/an-overview-of-deep-learning.html)
 
 # Tutorials / Books
 
@@ -28,8 +30,10 @@ My link collection for Artificial Intelligence and Machine Learning.
 
 ## Articles
 
+* [An Overview of Deep Learning for Curious People](https://lilianweng.github.io/lil-log/2017/06/21/an-overview-of-deep-learning.html) (2017-06-20)
 * [From GAN to WGAN](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html) (2017-08-20)
 * [Learning Dexterity - OpenAI](https://blog.openai.com/learning-dexterity/) (2018-07-30)
+
 
 # Examples of use
 
