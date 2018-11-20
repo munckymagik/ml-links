@@ -10,6 +10,7 @@ My link collection for Artificial Intelligence and Machine Learning.
 * CV - [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision) (or [Cross Validation](https://docs.aws.amazon.com/machine-learning/latest/dg/cross-validation.html))
 * GAN - [Generative Adversarial Network](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
 * NLP - [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
+* ReLU - [Rectified Linear Unit](https://www.tinymind.com/learn/terms/relu)
 * RL - [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
 * RNN - [Recurrent Neural Network](https://lilianweng.github.io/lil-log/2017/06/21/an-overview-of-deep-learning.html)
 
