@@ -14,13 +14,29 @@ My link collection for Artificial Intelligence and Machine Learning.
 * RL - [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
 * RNN - [Recurrent Neural Network](https://lilianweng.github.io/lil-log/2017/06/21/an-overview-of-deep-learning.html)
 
-# Tutorials / Books
+# Learning
 
-* [3Blue1Brown - Neural networks - Video Series](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) (retrieved 2018-11-18)
-* [Multi-object tracking with dlib - PyImageSearch](https://www.pyimagesearch.com/2018/10/29/multi-object-tracking-with-dlib/) (2018-10-29)
+## Online Books
+
 * [Spinning Up in Deep RL — OpenAI](https://spinningup.openai.com/en/latest/) (retrieved 2018-11-18)
-* [Unsupervised Feature Learning and Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/) (retrieved 2018-11-18)
+* [Unsupervised Feature Learning and Deep Learning Tutorial — Standford](http://ufldl.stanford.edu/tutorial/) (retrieved 2018-11-18)
 
+## Video Series
+
+* [3Blue1Brown — Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) (retrieved 2018-11-18)
+* [Learning To See — Welch Labs](https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV) (retrieved 2018-11-21)
+* [Neural Networks Demystified — Welch Labs](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU) (retrieved 2018-11-21)
+
+## Courses
+
+* [Deep Learning | Udacity](https://eu.udacity.com/course/deep-learning--ud730) (retrieved 2018-11-21)
+* [Intro to Machine Learning | Udacity](https://eu.udacity.com/course/intro-to-machine-learning--ud120) (retrieved 2018-11-21)
+* [Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/) (retrieved 2018-11-21)
+* [Neural Networks and Deep Learning | Coursera](https://www.coursera.org/learn/neural-networks-deep-learning/) (retrieved 2018-11-21)
+
+## Tutorials
+
+* [Multi-object tracking with dlib - PyImageSearch](https://www.pyimagesearch.com/2018/10/29/multi-object-tracking-with-dlib/) (2018-10-29)
 
 # Research
 
