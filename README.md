@@ -29,6 +29,7 @@ My link collection for Artificial Intelligence and Machine Learning.
 
 ## Courses
 
+* [AWS Training and Certification - Machine Learning](https://aws.amazon.com/training/learning-paths/machine-learning/) (retrieved 2018-11-27)
 * [Deep Learning | Udacity](https://eu.udacity.com/course/deep-learning--ud730) (retrieved 2018-11-21)
 * [Intro to Machine Learning | Udacity](https://eu.udacity.com/course/intro-to-machine-learning--ud120) (retrieved 2018-11-21)
 * [Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/) (retrieved 2018-11-21)
