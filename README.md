@@ -69,6 +69,12 @@ My link collection for Artificial Intelligence and Machine Learning.
 * [TensorFlow](https://www.tensorflow.org/) (retrieved 2018-10-29)
 * [TensorFlow Rust Binding](https://github.com/tensorflow/rust)
 
+# Datasets
+
+* [Awesome Public Datasets - A topic-centric list of HQ open datasets in public domains](https://github.com/awesomedata/awesome-public-datasets) (retrieved 2018-12-02)
+* [Datasets | Kaggle](https://www.kaggle.com/datasets) (retrieved 2018-12-02)
+* [UCI Machine Learning Repository: Data Sets](https://archive.ics.uci.edu/ml/datasets.html) (retrieved 2018-12-02)
+
 # Low-level Maths and Algorithms
 
 * [A collection of math tutorials in C](https://github.com/Foadsf/Cmathtuts) (retrieved 2018-10-29)
