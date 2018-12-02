@@ -50,6 +50,7 @@ My link collection for Artificial Intelligence and Machine Learning.
 * [Distill — Latest articles about machine learning](https://distill.pub/) (retrieved 2018-11-18)
 * [Google AI](https://ai.google/) (retrieved 2018-12-02)
 * [OpenAI](https://openai.com/) - non-profit AI research company (retrieved 2018-11-18)
+* [Two Minute Papers - YouTube](https://www.youtube.com/user/keeroyz) (retrieved 2018-12-02)
 
 ## Articles and Papers
 
@@ -60,6 +61,8 @@ My link collection for Artificial Intelligence and Machine Learning.
 
 # Examples of use
 
+* [AI Learns to Land SpaceX Style Rocket - YouTube](https://www.youtube.com/watch?v=NX_o9jB9bZ4) (retrieved 2018-12-02)
+* [NVIDIA's AI Dreams Up Imaginary Celebrities | Two Minute Papers #207 - YouTube](https://www.youtube.com/watch?v=VrgYtFhVGmg) (retrieved 2018-12-02)
 * [Playing Mortal Kombat with TensorFlow.js. Transfer learning and data augmentation · Minko Gechev's blog](https://blog.mgechev.com/2018/10/20/transfer-learning-tensorflow-js-data-augmentation-mobile-net/) (2018-10-20)
 
 # Tools
