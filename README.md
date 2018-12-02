@@ -46,6 +46,7 @@ My link collection for Artificial Intelligence and Machine Learning.
 ## Journals and research organisations
 
 * [Distill — Latest articles about machine learning](https://distill.pub/) (retrieved 2018-11-18)
+* [Google AI](https://ai.google/) (retrieved 2018-12-02)
 * [OpenAI](https://openai.com/) - non-profit AI research company (retrieved 2018-11-18)
 
 ## Articles and Papers
