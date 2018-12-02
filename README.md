@@ -40,6 +40,7 @@ My link collection for Artificial Intelligence and Machine Learning.
 
 ## Tutorials
 
+* [Landing a SpaceX Falcon Heavy Rocket - YouTube](https://www.youtube.com/watch?v=09OMoGqHexQ) (retrieved 2018-12-02)
 * [Multi-object tracking with dlib - PyImageSearch](https://www.pyimagesearch.com/2018/10/29/multi-object-tracking-with-dlib/) (2018-10-29)
 
 # Research
