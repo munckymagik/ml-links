@@ -18,6 +18,7 @@ My link collection for Artificial Intelligence and Machine Learning.
 
 ## Online Books
 
+* [Deep Learning, Goodfellow-et-al-2016](http://www.deeplearningbook.org/) (retrieved 2018-12-02)
 * [Spinning Up in Deep RL — OpenAI](https://spinningup.openai.com/en/latest/) (retrieved 2018-11-18)
 * [Unsupervised Feature Learning and Deep Learning Tutorial — Standford](http://ufldl.stanford.edu/tutorial/) (retrieved 2018-11-18)
 
@@ -31,6 +32,7 @@ My link collection for Artificial Intelligence and Machine Learning.
 
 * [AWS Training and Certification - Machine Learning](https://aws.amazon.com/training/learning-paths/machine-learning/) (retrieved 2018-11-27)
 * [Deep Learning | Udacity](https://eu.udacity.com/course/deep-learning--ud730) (retrieved 2018-11-21)
+* [Deep Learning For Coders—36 hours of lessons for free](https://course.fast.ai/) (retrieved 2018-12-02)
 * [Intro to Machine Learning | Udacity](https://eu.udacity.com/course/intro-to-machine-learning--ud120) (retrieved 2018-11-21)
 * [Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/) (retrieved 2018-11-21)
 * [Neural Networks and Deep Learning | Coursera](https://www.coursera.org/learn/neural-networks-deep-learning/) (retrieved 2018-11-21)
@@ -41,18 +43,17 @@ My link collection for Artificial Intelligence and Machine Learning.
 
 # Research
 
-## Sources
+## Journals and research organisations
 
 * [Distill — Latest articles about machine learning](https://distill.pub/) (retrieved 2018-11-18)
 * [OpenAI](https://openai.com/) - non-profit AI research company (retrieved 2018-11-18)
 
-## Articles
+## Articles and Papers
 
 * [A (Long) Peek into Reinforcement Learning](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html) (2018-02-19)
 * [An Overview of Deep Learning for Curious People](https://lilianweng.github.io/lil-log/2017/06/21/an-overview-of-deep-learning.html) (2017-06-20)
 * [From GAN to WGAN](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html) (2017-08-20)
 * [Learning Dexterity - OpenAI](https://blog.openai.com/learning-dexterity/) (2018-07-30)
-
 
 # Examples of use
 
@@ -68,10 +69,10 @@ My link collection for Artificial Intelligence and Machine Learning.
 * [TensorFlow](https://www.tensorflow.org/) (retrieved 2018-10-29)
 * [TensorFlow Rust Binding](https://github.com/tensorflow/rust)
 
-# Low-level implementation details
+# Low-level Maths and Algorithms
 
 * [A collection of math tutorials in C](https://github.com/Foadsf/Cmathtuts) (retrieved 2018-10-29)
-* [BLISS](https://github.com/flame/blis)
+* [BLIS](https://github.com/flame/blis)
 * [c - What is the relation between BLAS, LAPACK and ATLAS - Stack Overflow](https://stackoverflow.com/questions/17858104/what-is-the-relation-between-blas-lapack-and-atlas) (retrieved 2018-10-29)
 * [c++ - How does BLAS get such extreme performance? - Stack Overflow](https://stackoverflow.com/questions/1303182/how-does-blas-get-such-extreme-performance/11421344#11421344) (retrieved 2018-10-29)
 * [GEMM: From Pure C to SSE Optimized Micro Kernels](http://apfel.mathematik.uni-ulm.de/~lehn/sghpc/gemm/index.html) (retrieved 2018-10-29)
