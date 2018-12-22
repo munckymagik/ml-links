@@ -54,6 +54,7 @@ My link collection for Artificial Intelligence and Machine Learning.
 
 ## Articles and Papers
 
+* [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980) (retrieved 2018-12-22)
 * [A (Long) Peek into Reinforcement Learning](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html) (2018-02-19)
 * [An Overview of Deep Learning for Curious People](https://lilianweng.github.io/lil-log/2017/06/21/an-overview-of-deep-learning.html) (2017-06-20)
 * [From GAN to WGAN](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html) (2017-08-20)
