@@ -56,11 +56,15 @@ My link collection for Artificial Intelligence and Machine Learning.
 
 * [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980) (retrieved 2018-12-22)
 * [A (Long) Peek into Reinforcement Learning](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html) (2018-02-19)
+* [A Full Hardware Guide to Deep Learning — Tim Dettmers](http://timdettmers.com/2018/12/16/deep-learning-hardware-guide/) (2018-12-16)
+* [AI Transformation Playbook How to lead your company into the AI era - Landing AI](https://landing.ai/ai-transformation-playbook/) (2018-12-13)
 * [An Overview of Deep Learning for Curious People](https://lilianweng.github.io/lil-log/2017/06/21/an-overview-of-deep-learning.html) (2017-06-20)
 * [Data Science vs Engineering: Tension Points](https://blog.dominodatalab.com/data-science-vs-engineering-tension-points/) (2018-12-16)
 * [From GAN to WGAN](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html) (2017-08-20)
+* [How AI Training Scales](https://blog.openai.com/science-of-ai/) (2018-12-14)
 * [Learning Dexterity - OpenAI](https://blog.openai.com/learning-dexterity/) (2018-07-30)
 * [machine learning - What is the difference between linear regression and logistic regression? - Stack Overflow](https://stackoverflow.com/questions/12146914/what-is-the-difference-between-linear-regression-and-logistic-regression) (2012-08-27)
+* [Wav2letter++, the fastest open source speech system, and flashlight](https://code.fb.com/ai-research/wav2letter/) (2018-12-21)
 
 # Examples of use
 
