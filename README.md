@@ -46,12 +46,15 @@ My link collection for Artificial Intelligence and Machine Learning.
 
 # Research
 
-## Journals and research organisations
+## Sources
 
+* [arXiv.org](https://arxiv.org/) (retrieved 2019-02-04)
+* [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/) (retrieved 2019-02-04)
 * [Distill — Latest articles about machine learning](https://distill.pub/) (retrieved 2018-11-18)
 * [DeepMind](https://deepmind.com/) (retrieved 2019-02-04)
 * [Google AI](https://ai.google/) (retrieved 2018-12-02)
 * [OpenAI](https://openai.com/) - non-profit AI research company (retrieved 2018-11-18)
+* [/r/Machine Learning](https://www.reddit.com/r/MachineLearning/) (retrieved 2019-02-04)
 * [Two Minute Papers - YouTube](https://www.youtube.com/user/keeroyz) (retrieved 2018-12-02)
 
 ## Articles and Papers
