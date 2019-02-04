@@ -49,6 +49,7 @@ My link collection for Artificial Intelligence and Machine Learning.
 ## Journals and research organisations
 
 * [Distill — Latest articles about machine learning](https://distill.pub/) (retrieved 2018-11-18)
+* [DeepMind](https://deepmind.com/) (retrieved 2019-02-04)
 * [Google AI](https://ai.google/) (retrieved 2018-12-02)
 * [OpenAI](https://openai.com/) - non-profit AI research company (retrieved 2018-11-18)
 * [Two Minute Papers - YouTube](https://www.youtube.com/user/keeroyz) (retrieved 2018-12-02)
@@ -57,6 +58,7 @@ My link collection for Artificial Intelligence and Machine Learning.
 
 * [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980) (retrieved 2018-12-22)
 * [A (Long) Peek into Reinforcement Learning](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html) (2018-02-19)
+* [AlphaStar: Mastering the Real-Time Strategy Game StarCraft II | DeepMind](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/) (2019-01-24)
 * [A Full Hardware Guide to Deep Learning — Tim Dettmers](http://timdettmers.com/2018/12/16/deep-learning-hardware-guide/) (2018-12-16)
 * [AI Transformation Playbook How to lead your company into the AI era - Landing AI](https://landing.ai/ai-transformation-playbook/) (2018-12-13)
 * [An Overview of Deep Learning for Curious People](https://lilianweng.github.io/lil-log/2017/06/21/an-overview-of-deep-learning.html) (2017-06-20)
