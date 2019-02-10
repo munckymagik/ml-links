@@ -96,6 +96,7 @@ My link collection for Artificial Intelligence and Machine Learning.
 
 * [Awesome Public Datasets - A topic-centric list of HQ open datasets in public domains](https://github.com/awesomedata/awesome-public-datasets) (retrieved 2018-12-02)
 * [Datasets | Kaggle](https://www.kaggle.com/datasets) (retrieved 2018-12-02)
+* [OpenML](https://www.openml.org/) (retrieved 2019-02-10)
 * [UCI Machine Learning Repository: Data Sets](https://archive.ics.uci.edu/ml/datasets.html) (retrieved 2018-12-02)
 
 # Low-level Maths and Algorithms
