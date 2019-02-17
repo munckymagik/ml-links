@@ -40,6 +40,7 @@ My link collection for Artificial Intelligence and Machine Learning.
 
 ## Tutorials
 
+* [How to get started debugging TensorFlow](https://medium.freecodecamp.org/debugging-tensorflow-a-starter-e6668ce72617) (2018-07-16)
 * [Landing a SpaceX Falcon Heavy Rocket - YouTube](https://www.youtube.com/watch?v=09OMoGqHexQ) (retrieved 2018-12-02)
 * [Multi-object tracking with dlib - PyImageSearch](https://www.pyimagesearch.com/2018/10/29/multi-object-tracking-with-dlib/) (2018-10-29)
 * [Text as Data - Chris Bail - Duke University](https://cbail.github.io/textasdata/Text_as_Data.html) (retrieved 2019-01-01)
