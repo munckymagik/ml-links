@@ -28,6 +28,7 @@ My link collection for Artificial Intelligence and Machine Learning.
 * [3Blue1Brown — Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) (retrieved 2018-11-18)
 * [Learning To See — Welch Labs](https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV) (retrieved 2018-11-21)
 * [Neural Networks Demystified — Welch Labs](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU) (retrieved 2018-11-21)
+* [Spinning Up in Deep RL Workshop – OpenAI](https://www.youtube.com/watch?v=fdY7dt3ijgY) (2019-02-02)
 
 ## Courses
 
