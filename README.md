@@ -59,9 +59,11 @@ My link collection for Artificial Intelligence and Machine Learning.
 * [Multi-object tracking with dlib - PyImageSearch](https://www.pyimagesearch.com/2018/10/29/multi-object-tracking-with-dlib/) (2018-10-29)
 * [NVIDIA's AI Dreams Up Imaginary Celebrities | Two Minute Papers #207 - YouTube](https://www.youtube.com/watch?v=VrgYtFhVGmg) (retrieved 2018-12-02)
 * [Playing Mortal Kombat with TensorFlow.js. Transfer learning and data augmentation · Minko Gechev's blog](https://blog.mgechev.com/2018/10/20/transfer-learning-tensorflow-js-data-augmentation-mobile-net/) (2018-10-20)
+* [Reading the VGG Network Paper and Implementing It From Scratch with Keras](https://hackernoon.com/learning-keras-by-implementing-vgg16-from-scratch-d036733f2d5) (2017-03-27)
 * [Scalable agent alignment via reward modeling – DeepMind Safety Research](https://medium.com/@deepmindsafetyresearch/scalable-agent-alignment-via-reward-modeling-bf4ab06dfd84) (2018-11-20)
 * [TensorFlow Implementation of "A Neural Algorithm of Artistic Style"](http://www.chioka.in/tensorflow-implementation-neural-algorithm-of-artistic-style) (retrieved 2019-02-17)
 * [Text as Data - Chris Bail - Duke University](https://cbail.github.io/textasdata/Text_as_Data.html) (retrieved 2019-01-01)
+* [The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3) – Adit Deshpande – CS Undergrad at UCLA ('19)](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html) (2016-08-24)
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) (2015-05-20)
 * [Wav2letter++, the fastest open source speech system, and flashlight](https://code.fb.com/ai-research/wav2letter/) (2018-12-21)
 
