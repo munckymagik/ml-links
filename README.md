@@ -39,18 +39,33 @@ My link collection for Artificial Intelligence and Machine Learning.
 * [Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/) (retrieved 2018-11-21)
 * [Neural Networks and Deep Learning | Coursera](https://www.coursera.org/learn/neural-networks-deep-learning/) (retrieved 2018-11-21)
 
-## Tutorials
+# Blogs and articles
 
+* [[TALK] Human-centric Machine Learning Infrastructure @Netflix](https://www.infoq.com/presentations/netflix-ml-infrastructure) (2018-12-19)
+* [A (Long) Peek into Reinforcement Learning](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html) (2018-02-19)
+* [A Full Hardware Guide to Deep Learning — Tim Dettmers](http://timdettmers.com/2018/12/16/deep-learning-hardware-guide/) (2018-12-16)
+* [AI Learns to Land SpaceX Style Rocket - YouTube](https://www.youtube.com/watch?v=NX_o9jB9bZ4) (retrieved 2018-12-02)
+* [AI Transformation Playbook How to lead your company into the AI era - Landing AI](https://landing.ai/ai-transformation-playbook/) (2018-12-13)
+* [AlphaStar: Mastering the Real-Time Strategy Game StarCraft II | DeepMind](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/) (2019-01-24)
+* [An Overview of Deep Learning for Curious People](https://lilianweng.github.io/lil-log/2017/06/21/an-overview-of-deep-learning.html) (2017-06-20)
 * [Convolutional neural networks for artistic style transfer — Harish Narayanan](https://harishnarayanan.org/writing/artistic-style-transfer/) (retrieved 2019-02-17)
+* [Data Science vs Engineering: Tension Points](https://blog.dominodatalab.com/data-science-vs-engineering-tension-points/) (2018-12-16)
+* [From GAN to WGAN](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html) (2017-08-20)
+* [How AI Training Scales](https://blog.openai.com/science-of-ai/) (2018-12-14)
 * [How to get started debugging TensorFlow](https://medium.freecodecamp.org/debugging-tensorflow-a-starter-e6668ce72617) (2018-07-16)
 * [Landing a SpaceX Falcon Heavy Rocket - YouTube](https://www.youtube.com/watch?v=09OMoGqHexQ) (retrieved 2018-12-02)
+* [Learning Dexterity - OpenAI](https://blog.openai.com/learning-dexterity/) (2018-07-30)
+* [machine learning - What is the difference between linear regression and logistic regression? - Stack Overflow](https://stackoverflow.com/questions/12146914/what-is-the-difference-between-linear-regression-and-logistic-regression) (2012-08-27)
 * [Multi-object tracking with dlib - PyImageSearch](https://www.pyimagesearch.com/2018/10/29/multi-object-tracking-with-dlib/) (2018-10-29)
+* [NVIDIA's AI Dreams Up Imaginary Celebrities | Two Minute Papers #207 - YouTube](https://www.youtube.com/watch?v=VrgYtFhVGmg) (retrieved 2018-12-02)
+* [Playing Mortal Kombat with TensorFlow.js. Transfer learning and data augmentation · Minko Gechev's blog](https://blog.mgechev.com/2018/10/20/transfer-learning-tensorflow-js-data-augmentation-mobile-net/) (2018-10-20)
+* [Scalable agent alignment via reward modeling – DeepMind Safety Research](https://medium.com/@deepmindsafetyresearch/scalable-agent-alignment-via-reward-modeling-bf4ab06dfd84) (2018-11-20)
 * [TensorFlow Implementation of "A Neural Algorithm of Artistic Style"](http://www.chioka.in/tensorflow-implementation-neural-algorithm-of-artistic-style) (retrieved 2019-02-17)
 * [Text as Data - Chris Bail - Duke University](https://cbail.github.io/textasdata/Text_as_Data.html) (retrieved 2019-01-01)
+* [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) (2015-05-20)
+* [Wav2letter++, the fastest open source speech system, and flashlight](https://code.fb.com/ai-research/wav2letter/) (2018-12-21)
 
-# Research
-
-## Sources
+# Research outlets
 
 * [arXiv.org](https://arxiv.org/) (retrieved 2019-02-04)
 * [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/) (retrieved 2019-02-04)
@@ -62,30 +77,9 @@ My link collection for Artificial Intelligence and Machine Learning.
 * [/r/Machine Learning](https://www.reddit.com/r/MachineLearning/) (retrieved 2019-02-04)
 * [Two Minute Papers - YouTube](https://www.youtube.com/user/keeroyz) (retrieved 2018-12-02)
 
-## Articles and Papers
+# Papers
 
 * [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980) (retrieved 2018-12-22)
-* [A (Long) Peek into Reinforcement Learning](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html) (2018-02-19)
-* [AlphaStar: Mastering the Real-Time Strategy Game StarCraft II | DeepMind](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/) (2019-01-24)
-* [A Full Hardware Guide to Deep Learning — Tim Dettmers](http://timdettmers.com/2018/12/16/deep-learning-hardware-guide/) (2018-12-16)
-* [AI Transformation Playbook How to lead your company into the AI era - Landing AI](https://landing.ai/ai-transformation-playbook/) (2018-12-13)
-* [An Overview of Deep Learning for Curious People](https://lilianweng.github.io/lil-log/2017/06/21/an-overview-of-deep-learning.html) (2017-06-20)
-* [Data Science vs Engineering: Tension Points](https://blog.dominodatalab.com/data-science-vs-engineering-tension-points/) (2018-12-16)
-* [From GAN to WGAN](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html) (2017-08-20)
-* [How AI Training Scales](https://blog.openai.com/science-of-ai/) (2018-12-14)
-* [[VIDEO] Human-centric Machine Learning Infrastructure @Netflix](https://www.infoq.com/presentations/netflix-ml-infrastructure?utm_source=infoqemail&utm_medium=ai-ml-data-eng&utm_campaign=newsletter&utm_content=12252018) (retrieved 2018-12-19)
-* [Learning Dexterity - OpenAI](https://blog.openai.com/learning-dexterity/) (2018-07-30)
-* [machine learning - What is the difference between linear regression and logistic regression? - Stack Overflow](https://stackoverflow.com/questions/12146914/what-is-the-difference-between-linear-regression-and-logistic-regression) (2012-08-27)
-* [Scalable agent alignment via reward modeling – DeepMind Safety Research](https://medium.com/@deepmindsafetyresearch/scalable-agent-alignment-via-reward-modeling-bf4ab06dfd84) (2018-11-20)
-* [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) (2015-05-20)
-* [Wav2letter++, the fastest open source speech system, and flashlight](https://code.fb.com/ai-research/wav2letter/) (2018-12-21)
-
-
-# Examples of use
-
-* [AI Learns to Land SpaceX Style Rocket - YouTube](https://www.youtube.com/watch?v=NX_o9jB9bZ4) (retrieved 2018-12-02)
-* [NVIDIA's AI Dreams Up Imaginary Celebrities | Two Minute Papers #207 - YouTube](https://www.youtube.com/watch?v=VrgYtFhVGmg) (retrieved 2018-12-02)
-* [Playing Mortal Kombat with TensorFlow.js. Transfer learning and data augmentation · Minko Gechev's blog](https://blog.mgechev.com/2018/10/20/transfer-learning-tensorflow-js-data-augmentation-mobile-net/) (2018-10-20)
 
 # Tools
 
