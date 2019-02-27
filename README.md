@@ -73,11 +73,13 @@ My link collection for Artificial Intelligence and Machine Learning.
 * [Data Science vs Engineering: Tension Points](https://blog.dominodatalab.com/data-science-vs-engineering-tension-points/) (2018-12-16)
 * [From GAN to WGAN](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html) (2017-08-20)
 * [How AI Training Scales](https://blog.openai.com/science-of-ai/) (2018-12-14)
+* [[VIDEO] Human-centric Machine Learning Infrastructure @Netflix](https://www.infoq.com/presentations/netflix-ml-infrastructure?utm_source=infoqemail&utm_medium=ai-ml-data-eng&utm_campaign=newsletter&utm_content=12252018) (retrieved 2018-12-19)
 * [Learning Dexterity - OpenAI](https://blog.openai.com/learning-dexterity/) (2018-07-30)
 * [machine learning - What is the difference between linear regression and logistic regression? - Stack Overflow](https://stackoverflow.com/questions/12146914/what-is-the-difference-between-linear-regression-and-logistic-regression) (2012-08-27)
 * [Scalable agent alignment via reward modeling – DeepMind Safety Research](https://medium.com/@deepmindsafetyresearch/scalable-agent-alignment-via-reward-modeling-bf4ab06dfd84) (2018-11-20)
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) (2015-05-20)
 * [Wav2letter++, the fastest open source speech system, and flashlight](https://code.fb.com/ai-research/wav2letter/) (2018-12-21)
+
 
 # Examples of use
 
