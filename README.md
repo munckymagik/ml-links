@@ -79,7 +79,24 @@ My link collection for Artificial Intelligence and Machine Learning.
 
 # Papers
 
-* [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980) (retrieved 2018-12-22)
+* [Chopra, Hadsell, & LeCun, 2005, Learning a Similarity Metric Discriminatively, with Application to Face Verification](http://yann.lecun.com/exdb/publis/pdf/chopra-05.pdf) – Siamese architecture
+* [Gatys et al., 2015, A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
+* [Girshick et al., 2014, Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/abs/1311.2524)
+* [Girshick, 2015, Fast R-CNN](https://arxiv.org/abs/1504.08083)
+* [Going Deeper with Convolutions, Szegedy et al., 2015](https://arxiv.org/abs/1409.4842)
+* [He et al., 2015, Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
+* [Kingma & Ba, 2017, Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)
+* [Krizhevsky et al., 2012. ImageNet classification with deep convolutional neural networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+* [LeCun et al., 1998. Gradient-base learning applied to document recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
+* [Lin et al., 2013, Network In Network](https://arxiv.org/abs/1312.4400)"
+* [Redmon et al., 2016, You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
+* [Ren et al., 2016, Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497)
+* [Robert Keller and David Morrison, 2007, A Grammatical Approach to Automatic Improvisation](http://smc07.uoa.gr/SMC07%20Proceedings/SMC07%20Paper%2055.pdf)
+* [Schroff et al., 2015, FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/abs/1503.03832)
+* [Sermanet et al., 2014, OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks](https://arxiv.org/abs/1312.6229)
+* [Taigman et al., 2014, DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://research.fb.com/publications/deepface-closing-the-gap-to-human-level-performance-in-face-verification/) – Facebook Research
+* [Wu & Ji, 2018, Facial Landmark Detection: a Literature Survey](https://arxiv.org/abs/1805.05563)
+* [Zeiler & Fergus, 2013, Visualizing and Understanding Convolutional Networks](https://arxiv.org/abs/1311.2901)
 
 # Tools
 
