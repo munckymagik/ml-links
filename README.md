@@ -87,7 +87,7 @@ My link collection for Artificial Intelligence and Machine Learning.
 * [He et al., 2015, Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 * [Kingma & Ba, 2017, Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)
 * [Krizhevsky et al., 2012. ImageNet classification with deep convolutional neural networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
-* [LeCun et al., 1998. Gradient-base learning applied to document recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
+* [LeCun et al., 1998. Gradient-based learning applied to document recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
 * [Lin et al., 2013, Network In Network](https://arxiv.org/abs/1312.4400)"
 * [Redmon et al., 2016, You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
 * [Ren et al., 2016, Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497)
