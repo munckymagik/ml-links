@@ -105,11 +105,12 @@ My link collection for Artificial Intelligence and Machine Learning.
 * [100 numpy exercises](http://www.labri.fr/perso/nrougier/teaching/numpy.100/) (retrieved 2018-10-29)
 * [ArrayFire](https://github.com/arrayfire/arrayfire) (retrieved 2019-01-01)
 * [face-api.js](https://github.com/justadudewhohacks/face-api.js) (retrieved 2018-10-29)
+* [gpu.js - GPU Accelerated JavaScript](http://gpu.rocks/) (retrieved 2019-03-05)
 * [Keras: The Python Deep Learning library](https://keras.io/) (retrieved 2018-10-29)
 * [OpenCV library](https://opencv.org/) (retrieved 2018-11-18)
 * [SciPy.org — SciPy.org](https://www.scipy.org/) (retrieved 2018-10-29)
-* [TensorFlow](https://www.tensorflow.org/) (retrieved 2018-10-29)
 * [TensorFlow Rust Binding](https://github.com/tensorflow/rust)
+* [TensorFlow](https://www.tensorflow.org/) (retrieved 2018-10-29)
 * [Wave2Letter++](https://github.com/facebookresearch/wav2letter) (retrieved 2019-01-01)
 * [xtensor - QuantStack](http://quantstack.net/xtensor) (retrieved 2019-01-01)
 
