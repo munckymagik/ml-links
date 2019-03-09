@@ -38,6 +38,7 @@ My link collection for Artificial Intelligence and Machine Learning.
 * [Intro to Machine Learning | Udacity](https://eu.udacity.com/course/intro-to-machine-learning--ud120) (retrieved 2018-11-21)
 * [Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/) (retrieved 2018-11-21)
 * [Neural Networks and Deep Learning | Coursera](https://www.coursera.org/learn/neural-networks-deep-learning/) (retrieved 2018-11-21)
+* [Practical Deep Learning for Coders, v3 | fast.ai course v3](https://course.fast.ai/) (retrieved 2019-03-09)
 
 # Blogs and articles
 
