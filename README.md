@@ -120,6 +120,7 @@ My link collection for Artificial Intelligence and Machine Learning.
 
 * [Awesome Public Datasets - A topic-centric list of HQ open datasets in public domains](https://github.com/awesomedata/awesome-public-datasets) (retrieved 2018-12-02)
 * [Datasets | Kaggle](https://www.kaggle.com/datasets) (retrieved 2018-12-02)
+* [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/) (retrieved 2019-03-10)
 * [LFW Face Database : Main](http://vis-www.cs.umass.edu/lfw/) (retrieved 2019-02-16)
 * [OpenML](https://www.openml.org/) (retrieved 2019-02-10)
 * [UCI Machine Learning Repository: Data Sets](https://archive.ics.uci.edu/ml/datasets.html) (retrieved 2018-12-02)
