@@ -49,6 +49,7 @@ My link collection for Artificial Intelligence and Machine Learning.
 * [AI Transformation Playbook How to lead your company into the AI era - Landing AI](https://landing.ai/ai-transformation-playbook/) (2018-12-13)
 * [AlphaStar: Mastering the Real-Time Strategy Game StarCraft II | DeepMind](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/) (2019-01-24)
 * [An Overview of Deep Learning for Curious People](https://lilianweng.github.io/lil-log/2017/06/21/an-overview-of-deep-learning.html) (2017-06-20)
+* [Coconet: the ML model behind today’s Bach Doodle](https://magenta.tensorflow.org/coconet) (retrieved 2019-03-22)
 * [Convolutional neural networks for artistic style transfer — Harish Narayanan](https://harishnarayanan.org/writing/artistic-style-transfer/) (retrieved 2019-02-17)
 * [Data Science vs Engineering: Tension Points](https://blog.dominodatalab.com/data-science-vs-engineering-tension-points/) (2018-12-16)
 * [From GAN to WGAN](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html) (2017-08-20)
