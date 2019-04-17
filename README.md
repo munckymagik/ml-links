@@ -103,6 +103,7 @@ My collection of links on Artificial Intelligence and Machine Learning.
 
 ## Papers
 
+* [Chen et al., 2019, Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)
 * [Chopra, Hadsell, & LeCun, 2005, Learning a Similarity Metric Discriminatively, with Application to Face Verification](http://yann.lecun.com/exdb/publis/pdf/chopra-05.pdf) – Siamese architecture
 * [Gatys et al., 2015, A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
 * [Girshick et al., 2014, Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/abs/1311.2524)
