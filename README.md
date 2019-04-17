@@ -1,8 +1,8 @@
-# ml-links
+# Dan's Machine Learning Links
 
-My link collection for Artificial Intelligence and Machine Learning.
+My collection of links on Artificial Intelligence and Machine Learning.
 
-# Glossary
+## Glossary
 
 * AGI - [Artificial General Intelligence](https://intelligence.org/2013/08/11/what-is-agi/)
 * ANN - [Artificial Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network)
@@ -15,22 +15,22 @@ My link collection for Artificial Intelligence and Machine Learning.
 * RL - [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
 * RNN - [Recurrent Neural Network](https://lilianweng.github.io/lil-log/2017/06/21/an-overview-of-deep-learning.html)
 
-# Learning
+## Learning
 
-## Online Books
+### Online Books
 
 * [Deep Learning, Goodfellow-et-al-2016](http://www.deeplearningbook.org/) (retrieved 2018-12-02)
 * [Spinning Up in Deep RL — OpenAI](https://spinningup.openai.com/en/latest/) (retrieved 2018-11-18)
 * [Unsupervised Feature Learning and Deep Learning Tutorial — Standford](http://ufldl.stanford.edu/tutorial/) (retrieved 2018-11-18)
 
-## Video Series
+### Video Series
 
 * [3Blue1Brown — Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) (retrieved 2018-11-18)
 * [Learning To See — Welch Labs](https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV) (retrieved 2018-11-21)
 * [Neural Networks Demystified — Welch Labs](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU) (retrieved 2018-11-21)
 * [Spinning Up in Deep RL Workshop – OpenAI](https://www.youtube.com/watch?v=fdY7dt3ijgY) (2019-02-02)
 
-## Courses
+### Courses
 
 * [AWS Training and Certification - Machine Learning](https://aws.amazon.com/training/learning-paths/machine-learning/) (retrieved 2018-11-27)
 * [Deep Learning | Udacity](https://eu.udacity.com/course/deep-learning--ud730) (retrieved 2018-11-21)
@@ -40,7 +40,7 @@ My link collection for Artificial Intelligence and Machine Learning.
 * [Neural Networks and Deep Learning | Coursera](https://www.coursera.org/learn/neural-networks-deep-learning/) (retrieved 2018-11-21)
 * [Practical Deep Learning for Coders, v3 | fast.ai course v3](https://course.fast.ai/) (retrieved 2019-03-09)
 
-# Blogs and articles
+## Blogs and articles
 
 * [[TALK] Human-centric Machine Learning Infrastructure @Netflix](https://www.infoq.com/presentations/netflix-ml-infrastructure) (2018-12-19)
 * [A (Long) Peek into Reinforcement Learning](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html) (2018-02-19)
@@ -69,7 +69,7 @@ My link collection for Artificial Intelligence and Machine Learning.
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) (2015-05-20)
 * [Wav2letter++, the fastest open source speech system, and flashlight](https://code.fb.com/ai-research/wav2letter/) (2018-12-21)
 
-# Research outlets
+## Research outlets
 
 * [arXiv.org](https://arxiv.org/) (retrieved 2019-02-04)
 * [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/) (retrieved 2019-02-04)
@@ -82,7 +82,7 @@ My link collection for Artificial Intelligence and Machine Learning.
 * [/r/Machine Learning](https://www.reddit.com/r/MachineLearning/) (retrieved 2019-02-04)
 * [Two Minute Papers - YouTube](https://www.youtube.com/user/keeroyz) (retrieved 2018-12-02)
 
-# Papers
+## Papers
 
 * [Chopra, Hadsell, & LeCun, 2005, Learning a Similarity Metric Discriminatively, with Application to Face Verification](http://yann.lecun.com/exdb/publis/pdf/chopra-05.pdf) – Siamese architecture
 * [Gatys et al., 2015, A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
@@ -103,7 +103,7 @@ My link collection for Artificial Intelligence and Machine Learning.
 * [Wu & Ji, 2018, Facial Landmark Detection: a Literature Survey](https://arxiv.org/abs/1805.05563)
 * [Zeiler & Fergus, 2013, Visualizing and Understanding Convolutional Networks](https://arxiv.org/abs/1311.2901)
 
-# Tools
+## Tools
 
 * [100 numpy exercises](http://www.labri.fr/perso/nrougier/teaching/numpy.100/) (retrieved 2018-10-29)
 * [ArrayFire](https://github.com/arrayfire/arrayfire) (retrieved 2019-01-01)
@@ -117,7 +117,7 @@ My link collection for Artificial Intelligence and Machine Learning.
 * [Wave2Letter++](https://github.com/facebookresearch/wav2letter) (retrieved 2019-01-01)
 * [xtensor - QuantStack](http://quantstack.net/xtensor) (retrieved 2019-01-01)
 
-# Datasets
+## Datasets
 
 * [Awesome Public Datasets - A topic-centric list of HQ open datasets in public domains](https://github.com/awesomedata/awesome-public-datasets) (retrieved 2018-12-02)
 * [Datasets | Kaggle](https://www.kaggle.com/datasets) (retrieved 2018-12-02)
@@ -126,7 +126,7 @@ My link collection for Artificial Intelligence and Machine Learning.
 * [OpenML](https://www.openml.org/) (retrieved 2019-02-10)
 * [UCI Machine Learning Repository: Data Sets](https://archive.ics.uci.edu/ml/datasets.html) (retrieved 2018-12-02)
 
-# Low-level Maths and Algorithms
+## Low-level Maths and Algorithms
 
 * [A collection of math tutorials in C](https://github.com/Foadsf/Cmathtuts) (retrieved 2018-10-29)
 * [BLIS](https://github.com/flame/blis)
