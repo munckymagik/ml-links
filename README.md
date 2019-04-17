@@ -2,6 +2,19 @@
 
 My collection of links on Artificial Intelligence and Machine Learning.
 
+**Table of contents**
+ * [Glossary](#glossary)
+ * [Learning](#learning)
+   * [Online books](#online-books)
+   * [Video series](#video-series)
+   * [Courses](#courses)
+ * [Blogs and articles](#blogs-and-articles)
+ * [Research outlets](#research-outlets)
+ * [Papers](#papers)
+ * [Tools](#tools)
+ * [Datasets](#datasets)
+ * [Low level maths and algorithms](#low-level-maths-and-algorithms)
+
 ## Glossary
 
 * AGI - [Artificial General Intelligence](https://intelligence.org/2013/08/11/what-is-agi/)
