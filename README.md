@@ -9,6 +9,7 @@ My collection of links on Artificial Intelligence and Machine Learning.
    * [Video series](#video-series)
    * [Courses](#courses)
  * [Blogs and articles](#blogs-and-articles)
+ * [Conferences](#conferences)
  * [Research outlets](#research-outlets)
  * [Papers](#papers)
  * [Tools](#tools)
@@ -82,6 +83,10 @@ My collection of links on Artificial Intelligence and Machine Learning.
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) (2015-05-20)
 * [Wav2letter++, the fastest open source speech system, and flashlight](https://code.fb.com/ai-research/wav2letter/) (2018-12-21)
 
+## Conferences
+
+* [ICLR Conference](https://iclr.cc/) - International Conference on Learning Representations (retrieved 2019-04-17)
+
 ## Research outlets
 
 * [arXiv.org](https://arxiv.org/) (retrieved 2019-02-04)
@@ -89,6 +94,7 @@ My collection of links on Artificial Intelligence and Machine Learning.
 * [Distill — Latest articles about machine learning](https://distill.pub/) (retrieved 2018-11-18)
 * [DeepMind](https://deepmind.com/) (retrieved 2019-02-04)
 * [Google AI](https://ai.google/) (retrieved 2018-12-02)
+* [ICLR conference proceedings](https://openreview.net/group?id=ICLR.cc) (retrieved 2019-04-17)
 * [Journal of Machine Learning Research](http://www.jmlr.org/) (retrieved 2019-03-06)
 * [OpenAI](https://openai.com/) - non-profit AI research company (retrieved 2018-11-18)
 * [Papers With Code : the latest in machine learning](https://paperswithcode.com/) (retrieved 2019-02-19)
