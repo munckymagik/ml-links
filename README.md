@@ -35,6 +35,7 @@ My collection of links on Artificial Intelligence and Machine Learning.
 
 * [Deep Learning, Goodfellow-et-al-2016](http://www.deeplearningbook.org/) (retrieved 2018-12-02)
 * [Spinning Up in Deep RL — OpenAI](https://spinningup.openai.com/en/latest/) (retrieved 2018-11-18)
+* [Statistical Thinking for the 21st Century](http://statsthinking21.org/) (retrieved 2019-04-20)
 * [Unsupervised Feature Learning and Deep Learning Tutorial — Standford](http://ufldl.stanford.edu/tutorial/) (retrieved 2018-11-18)
 
 ### Video Series
@@ -65,6 +66,7 @@ My collection of links on Artificial Intelligence and Machine Learning.
 * [An Overview of Deep Learning for Curious People](https://lilianweng.github.io/lil-log/2017/06/21/an-overview-of-deep-learning.html) (2017-06-20)
 * [Coconet: the ML model behind today’s Bach Doodle](https://magenta.tensorflow.org/coconet) (2019-03-20)
 * [Convolutional neural networks for artistic style transfer — Harish Narayanan](https://harishnarayanan.org/writing/artistic-style-transfer/) (retrieved 2019-02-17)
+* [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/) (retrieved 2019-04-20)
 * [Data Science vs Engineering: Tension Points](https://blog.dominodatalab.com/data-science-vs-engineering-tension-points/) (2018-12-16)
 * [From GAN to WGAN](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html) (2017-08-20)
 * [How AI Training Scales](https://blog.openai.com/science-of-ai/) (2018-12-14)
