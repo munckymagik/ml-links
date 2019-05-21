@@ -72,6 +72,7 @@ My collection of links on Artificial Intelligence and Machine Learning.
 * [From GAN to WGAN](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html) (2017-08-20)
 * [How AI Training Scales](https://blog.openai.com/science-of-ai/) (2018-12-14)
 * [How to get started debugging TensorFlow](https://medium.freecodecamp.org/debugging-tensorflow-a-starter-e6668ce72617) (2018-07-16)
+* [Initialization (interactive) | deeplearning.ai](https://www.deeplearning.ai/ai-notes/initialization/) (retrieved 2019-05-21)
 * [Landing a SpaceX Falcon Heavy Rocket - YouTube](https://www.youtube.com/watch?v=09OMoGqHexQ) (retrieved 2018-12-02)
 * [Learning Dexterity - OpenAI](https://blog.openai.com/learning-dexterity/) (2018-07-30)
 * [machine learning - What is the difference between linear regression and logistic regression? - Stack Overflow](https://stackoverflow.com/questions/12146914/what-is-the-difference-between-linear-regression-and-logistic-regression) (2012-08-27)
