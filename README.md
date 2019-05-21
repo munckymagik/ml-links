@@ -68,6 +68,7 @@ My collection of links on Artificial Intelligence and Machine Learning.
 * [Convolutional neural networks for artistic style transfer — Harish Narayanan](https://harishnarayanan.org/writing/artistic-style-transfer/) (retrieved 2019-02-17)
 * [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/) (retrieved 2019-04-20)
 * [Data Science vs Engineering: Tension Points](https://blog.dominodatalab.com/data-science-vs-engineering-tension-points/) (2018-12-16)
+* [Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask | Uber Engineering Blog](https://eng.uber.com/deconstructing-lottery-tickets/?utm_campaign=the_algorithm.unpaid.engagement&utm_source=hs_email&utm_medium=email&utm_content=72562707&_hsenc=p2ANqtz-_HGEOfHtafH8o9UF7Kih3-kw8t_E8UVACTWRtSQBNNiLwkhfcAoxwv8GOrlkwWjV5SITRzSDeTrTLr7cFFTSHhTyoZgEW96qxQz_RknY2W_o_Z35g&_hsmi=72562707) (2019-05-06)
 * [From GAN to WGAN](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html) (2017-08-20)
 * [How AI Training Scales](https://blog.openai.com/science-of-ai/) (2018-12-14)
 * [How to get started debugging TensorFlow](https://medium.freecodecamp.org/debugging-tensorflow-a-starter-e6668ce72617) (2018-07-16)
@@ -104,9 +105,10 @@ My collection of links on Artificial Intelligence and Machine Learning.
 * [Two Minute Papers - YouTube](https://www.youtube.com/user/keeroyz) (retrieved 2018-12-02)
 
 ## Papers
-
 * [Chen et al., 2019, Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)
 * [Chopra, Hadsell, & LeCun, 2005, Learning a Similarity Metric Discriminatively, with Application to Face Verification](http://yann.lecun.com/exdb/publis/pdf/chopra-05.pdf) – Siamese architecture
+* [Frankle & Carbin, 2019, The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)
+* [Frankle et al., 2019, The Lottery Ticket Hypothesis at Scale](https://arxiv.org/abs/1903.01611)
 * [Gatys et al., 2015, A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
 * [Girshick et al., 2014, Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/abs/1311.2524)
 * [Girshick, 2015, Fast R-CNN](https://arxiv.org/abs/1504.08083)
