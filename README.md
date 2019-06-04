@@ -34,6 +34,7 @@ My collection of links on Artificial Intelligence and Machine Learning.
 ### Online Books
 
 * [Deep Learning, Goodfellow-et-al-2016](http://www.deeplearningbook.org/) (retrieved 2018-12-02)
+* [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) (retrieved 2019-06-04)
 * [Spinning Up in Deep RL — OpenAI](https://spinningup.openai.com/en/latest/) (retrieved 2018-11-18)
 * [Statistical Thinking for the 21st Century](http://statsthinking21.org/) (retrieved 2019-04-20)
 * [Unsupervised Feature Learning and Deep Learning Tutorial — Standford](http://ufldl.stanford.edu/tutorial/) (retrieved 2018-11-18)
