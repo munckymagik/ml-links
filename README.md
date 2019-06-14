@@ -157,7 +157,7 @@ My collection of links on Artificial Intelligence and Machine Learning.
 ## Low-level Maths and Algorithms
 
 * [A collection of math tutorials in C](https://github.com/Foadsf/Cmathtuts) (retrieved 2018-10-29)
-* [BLIS](https://github.com/flame/blis)
+* [BLIS](https://github.com/flame/blis) ([paper](http://www.cs.utexas.edu/users/flame/pubs/blis1_toms_rev3.pdf))
 * [c - What is the relation between BLAS, LAPACK and ATLAS - Stack Overflow](https://stackoverflow.com/questions/17858104/what-is-the-relation-between-blas-lapack-and-atlas) (retrieved 2018-10-29)
 * [c++ - How does BLAS get such extreme performance? - Stack Overflow](https://stackoverflow.com/questions/1303182/how-does-blas-get-such-extreme-performance/11421344#11421344) (retrieved 2018-10-29)
 * [GEMM: From Pure C to SSE Optimized Micro Kernels](http://apfel.mathematik.uni-ulm.de/~lehn/sghpc/gemm/index.html) (retrieved 2018-10-29)
