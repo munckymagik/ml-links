@@ -10,7 +10,7 @@ My collection of links on Artificial Intelligence and Machine Learning.
    * [Courses](#courses)
  * [Blogs and articles](#blogs-and-articles)
  * [Conferences](#conferences)
- * [Research outlets](#research-outlets)
+ * [Research channels](#research-channels)
  * [Papers](#papers)
  * [Tools](#tools)
  * [Datasets](#datasets)
