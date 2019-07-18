@@ -93,7 +93,7 @@ My collection of links on Artificial Intelligence and Machine Learning.
 
 * [ICLR Conference](https://iclr.cc/) - International Conference on Learning Representations (retrieved 2019-04-17)
 
-## Research outlets
+## Research channels
 
 * [arXiv.org](https://arxiv.org/) (retrieved 2019-02-04)
 * [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/) (retrieved 2019-02-04)
