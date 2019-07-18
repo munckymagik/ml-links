@@ -86,6 +86,7 @@ My collection of links on Artificial Intelligence and Machine Learning.
 * [Text as Data - Chris Bail - Duke University](https://cbail.github.io/textasdata/Text_as_Data.html) (retrieved 2019-01-01)
 * [The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3) – Adit Deshpande – CS Undergrad at UCLA ('19)](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html) (2016-08-24)
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) (2015-05-20)
+* [Towards a Fair Marketplace: Trade-off between Relevance, Fairness & Satisfaction in RecSys](https://blog.rishabhmehrotra.com/towards-a-fair-marketplace-trade-off-between-relevance-fairness-satisfaction-in-recsys-dca8b80b8a35) (2018-09-11)
 * [Wav2letter++, the fastest open source speech system, and flashlight](https://code.fb.com/ai-research/wav2letter/) (2018-12-21)
 
 ## Conferences
@@ -107,6 +108,7 @@ My collection of links on Artificial Intelligence and Machine Learning.
 * [Two Minute Papers - YouTube](https://www.youtube.com/user/keeroyz) (retrieved 2018-12-02)
 
 ## Papers
+
 * [Chen et al., 2019, Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)
 * [Chopra, Hadsell, & LeCun, 2005, Learning a Similarity Metric Discriminatively, with Application to Face Verification](http://yann.lecun.com/exdb/publis/pdf/chopra-05.pdf) – Siamese architecture
 * [Frankle & Carbin, 2019, The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)
@@ -119,7 +121,8 @@ My collection of links on Artificial Intelligence and Machine Learning.
 * [Kingma & Ba, 2017, Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)
 * [Krizhevsky et al., 2012. ImageNet classification with deep convolutional neural networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 * [LeCun et al., 1998. Gradient-based learning applied to document recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
-* [Lin et al., 2013, Network In Network](https://arxiv.org/abs/1312.4400)"
+* [Lin et al., 2013, Network In Network](https://arxiv.org/abs/1312.4400)
+* [Mehrotra et al., 2018, Towards a Fair Marketplace: Counterfactual Evaluation of the trade-off between Relevance, Fairness & Satisfaction in Recommendation Systems](http://rishabhmehrotra.com/papers/CIKM2018-marketplace-mehrotra.pdf)
 * [Redmon et al., 2016, You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
 * [Ren et al., 2016, Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497)
 * [Robert Keller and David Morrison, 2007, A Grammatical Approach to Automatic Improvisation](http://smc07.uoa.gr/SMC07%20Proceedings/SMC07%20Paper%2055.pdf)
