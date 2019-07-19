@@ -8,7 +8,7 @@ My collection of links on Artificial Intelligence and Machine Learning.
    * [Online books](#online-books)
    * [Video series](#video-series)
    * [Courses](#courses)
- * [Blogs and articles](#blogs-and-articles)
+ * [Blogs, articles and videos](#blogs-articles-and-videos)
  * [Conferences](#conferences)
  * [Research channels](#research-channels)
  * [Papers](#papers)
@@ -56,7 +56,7 @@ My collection of links on Artificial Intelligence and Machine Learning.
 * [Neural Networks and Deep Learning | Coursera](https://www.coursera.org/learn/neural-networks-deep-learning/) (retrieved 2018-11-21)
 * [Practical Deep Learning for Coders, v3 | fast.ai course v3](https://course.fast.ai/) (retrieved 2019-03-09)
 
-## Blogs and articles
+## Blogs, articles and videos
 
 * [[TALK] Human-centric Machine Learning Infrastructure @Netflix](https://www.infoq.com/presentations/netflix-ml-infrastructure) (2018-12-19)
 * [A (Long) Peek into Reinforcement Learning](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html) (2018-02-19)
@@ -81,6 +81,8 @@ My collection of links on Artificial Intelligence and Machine Learning.
 * [NVIDIA's AI Dreams Up Imaginary Celebrities | Two Minute Papers #207 - YouTube](https://www.youtube.com/watch?v=VrgYtFhVGmg) (retrieved 2018-12-02)
 * [Playing Mortal Kombat with TensorFlow.js. Transfer learning and data augmentation · Minko Gechev's blog](https://blog.mgechev.com/2018/10/20/transfer-learning-tensorflow-js-data-augmentation-mobile-net/) (2018-10-20)
 * [Reading the VGG Network Paper and Implementing It From Scratch with Keras](https://hackernoon.com/learning-keras-by-implementing-vgg16-from-scratch-d036733f2d5) (2017-03-27)
+* [Rishabh Mehrotra: Recommendations in a Marketplace (part 1) - YouTube](https://www.youtube.com/watch?v=sx9lKCCeWoc) (retrieved 2019-07-19)
+* [Rishabh Mehrotra: Recommendations in a Marketplace (part 2) - YouTube](https://www.youtube.com/watch?v=3gPYN61ZGAI) (retrieved 2019-07-19)
 * [Scalable agent alignment via reward modeling – DeepMind Safety Research](https://medium.com/@deepmindsafetyresearch/scalable-agent-alignment-via-reward-modeling-bf4ab06dfd84) (2018-11-20)
 * [TensorFlow Implementation of "A Neural Algorithm of Artistic Style"](http://www.chioka.in/tensorflow-implementation-neural-algorithm-of-artistic-style) (retrieved 2019-02-17)
 * [Text as Data - Chris Bail - Duke University](https://cbail.github.io/textasdata/Text_as_Data.html) (retrieved 2019-01-01)
