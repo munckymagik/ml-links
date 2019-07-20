@@ -141,6 +141,7 @@ My collection of links on Artificial Intelligence and Machine Learning.
 * [face-api.js](https://github.com/justadudewhohacks/face-api.js) (retrieved 2018-10-29)
 * [gpu.js - GPU Accelerated JavaScript](http://gpu.rocks/) (retrieved 2019-03-05)
 * [Keras: The Python Deep Learning library](https://keras.io/) (retrieved 2018-10-29)
+* [numpy-ml - a collection of reference implementaions of ML algorithms](https://github.com/ddbourgin/numpy-ml) (retrieved 2019-07-20)
 * [OpenCV library](https://opencv.org/) (retrieved 2018-11-18)
 * [qri (“query”) is versioned, scriptable, exportable, collaborative datasets](https://qri.io/) (retrieved 2019-04-20)
 * [SciPy.org — SciPy.org](https://www.scipy.org/) (retrieved 2018-10-29)
